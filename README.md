@@ -1,14 +1,22 @@
 <div align="center">
 
-<!-- Animated Header Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,100:e8212b&height=220&section=header&text=Asad%20Ali&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=IT%20Support%20Engineer%20%7C%20SIEM%20%26%20CTEM%20Specialist&descAlignY=62&descSize=18" alt="Asad Ali Header Banner" width="100%" />
+<!-- Animated Header Wave Banner (Self-Hosted) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asadali-cyber25/asadali-cyber25/main/assets/header-banner.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asadali-cyber25/asadali-cyber25/main/assets/header-banner.svg" />
+  <img alt="Asad Ali Header Banner" src="./assets/header-banner.svg" width="100%" />
+</picture>
 
-<!-- Animated Typing Terminal Headline -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=E8212B&center=true&vCenter=true&width=750&lines=🛡️+Architecting+system+stability+%26+operational+security.;⚡+SIEM+Engineering+%C2%B7+CTEM+Frameworks+%C2%B7+Threat+Hunting.;🔍+Diagnosing+failures+before+they+become+critical+incidents.;🐧+Linux+%26+Windows+Server+Hardening+%C2%B7+Automated+Pipelines." alt="Typing Animation" />
-</a>
+<br/><br/>
 
-<br/>
+<!-- Animated Cyber Terminal Typing Headline (Self-Hosted) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asadali-cyber25/asadali-cyber25/main/assets/typing.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asadali-cyber25/asadali-cyber25/main/assets/typing.svg" />
+  <img alt="Terminal Typing" src="./assets/typing.svg" width="100%" />
+</picture>
+
+<br/><br/>
 
 <!-- Interactive Quick Connect Badges -->
 [![Website](https://img.shields.io/badge/CyberSilo-e8212b?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cybersilo.tech/)
@@ -17,7 +25,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asadali-cyber25)
 [![Location](https://img.shields.io/badge/Location-Gujrat%2C%20Pakistan-1f1f1f?style=for-the-badge&logo=googlemaps&logoColor=e8212b)](https://maps.google.com/?q=Gujrat,Pakistan)
 
-<br/>
+<br/><br/>
 
 <!-- Profile View Counter -->
 ![Profile Views](https://komarev.com/ghpvc/?username=asadali-cyber25&label=Profile%20Views&color=e8212b&style=flat-square)
@@ -121,7 +129,11 @@ Whether it's discussing **defensive security**, **SIEM deployment**, or an **IT 
 
 <div align="center">
 
-<!-- Animated Footer Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8212b,100:050505&height=120&section=footer" alt="Footer Banner" width="100%" />
+<!-- Animated Footer Wave Banner (Self-Hosted) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asadali-cyber25/asadali-cyber25/main/assets/footer-banner.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asadali-cyber25/asadali-cyber25/main/assets/footer-banner.svg" />
+  <img alt="Footer Banner" src="./assets/footer-banner.svg" width="100%" />
+</picture>
 
 </div>

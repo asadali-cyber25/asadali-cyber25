@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 100" width="100%" height="100%">
+  <defs>
+    <linearGradient id="footerBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1c070a" />
+      <stop offset="60%" stop-color="#0c0c12" />
+      <stop offset="100%" stop-color="#07070a" />
+    </linearGradient>
+    <linearGradient id="footerWave" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#e8212b" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#ff4757" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#e8212b" stop-opacity="0.8" />
+    </linearGradient>
+  </defs>
+  <style>
+    @keyframes waveBack {
+      0% { transform: translateX(0); }
+      50% { transform: translateX(-30px); }
+      100% { transform: translateX(0); }
+    }
+    .animated-wave {
+      animation: waveBack 10s ease-in-out infinite;
+    }
+  </style>
+  <rect width="900" height="100" rx="14" fill="url(#footerBg)" />
+  <rect x="1" y="1" width="898" height="98" rx="13" fill="none" stroke="#e8212b" stroke-width="1" stroke-opacity="0.3" />
+  <g class="animated-wave">
+    <path d="M -50 0 Q 200 45, 450 15 T 950 30 L 950 0 Z" fill="url(#footerWave)" />
+  </g>
+  <line x1="60" y1="2" x2="840" y2="2" stroke="#e8212b" stroke-width="2" stroke-opacity="0.8" />
+  <text x="450" y="65" font-family="'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" letter-spacing="3" fill="#9ca3af" text-anchor="middle">
+    STABILITY <tspan fill="#e8212b">•</tspan> SECURITY <tspan fill="#e8212b">•</tspan> AUTOMATION
+  </text>
+</svg>
