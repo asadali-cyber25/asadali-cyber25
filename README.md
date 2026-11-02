@@ -1,74 +1,127 @@
-<!-- Replace every YOUR-USERNAME with your GitHub username (the repo name must equal it). -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,100:e8212b&height=210&section=header&text=Asad%20Ali&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=IT%20Support%20Engineer%20%7C%20SIEM%20%26%20CTEM%20Specialist&descAlignY=60&descSize=18" alt="Asad Ali banner" />
+<!-- Animated Header Wave Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,100:e8212b&height=220&section=header&text=Asad%20Ali&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=IT%20Support%20Engineer%20%7C%20SIEM%20%26%20CTEM%20Specialist&descAlignY=62&descSize=18" alt="Asad Ali Header Banner" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=E8212B&center=true&vCenter=true&width=620&lines=Architecting+stability.;Diagnosing+the+failure+before+it+becomes+an+incident.;SIEM+%C2%B7+CTEM+%C2%B7+System+Hardening+%C2%B7+Automation" alt="Typing animation" /></a>
+<!-- Animated Typing Terminal Headline -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=E8212B&center=true&vCenter=true&width=750&lines=🛡️+Architecting+system+stability+%26+operational+security.;⚡+SIEM+Engineering+%C2%B7+CTEM+Frameworks+%C2%B7+Threat+Hunting.;🔍+Diagnosing+failures+before+they+become+critical+incidents.;🐧+Linux+%26+Windows+Server+Hardening+%C2%B7+Automated+Pipelines." alt="Typing Animation" />
+</a>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-e8212b?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-domain.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
+<!-- Interactive Quick Connect Badges -->
+[![Website](https://img.shields.io/badge/CyberSilo-e8212b?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cybersilo.tech/)
+[![Email](https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=e8212b)](mailto:mrxasad33@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923323155941)
-[![Email](https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asadali-cyber25)
+[![Location](https://img.shields.io/badge/Location-Gujrat%2C%20Pakistan-1f1f1f?style=for-the-badge&logo=googlemaps&logoColor=e8212b)](https://maps.google.com/?q=Gujrat,Pakistan)
 
-![Profile views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20views&color=e8212b&style=flat-square)
+<br/>
+
+<!-- Profile View Counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=asadali-cyber25&label=Profile%20Views&color=e8212b&style=flat-square)
 
 </div>
 
 ---
 
-## 👋 About me
+### 🛡️ About Me
 
-- 🛡️ IT Support Engineer focused on **security operations** — SIEM and CTEM
-- 📍 Based in **Gujrat, Pakistan**
-- 🔧 I keep systems stable: enterprise deployments, log pipelines, system hardening
-- 🎯 Open to **IT Support**, **Systems Administration** and **Security Analyst** roles
-- 💬 Ask me about: monitoring, incident triage, Linux / Windows servers, automation
+Dedicated **IT Support Engineer** with a strong specialization in **Cybersecurity Operations**, focusing on **SIEM (Security Information & Event Management)** and **CTEM (Continuous Threat Exposure Management)**. 
 
-## 🧰 What I work with
+- 📍 Based in **Gujrat, Pakistan** 🇵🇰
+- 🏢 Associated with [**CyberSilo**](https://cybersilo.tech/)
+- 🔧 Passionate about maintaining **enterprise system reliability**, deploying resilient log pipelines, and proactive threat exposure mitigation.
+- 🎯 Open to **IT Support Specialist**, **Systems Administrator**, and **SOC / Security Analyst** roles.
+- 💬 Ask me about: **Incident triage, enterprise server administration (Linux/Windows), telemetry pipelines, and security automation.**
 
-![SIEM](https://img.shields.io/badge/SIEM-e8212b?style=flat-square)
-![CTEM](https://img.shields.io/badge/CTEM-e8212b?style=flat-square)
-![Log Pipelines](https://img.shields.io/badge/Log%20Pipelines-1f1f1f?style=flat-square)
-![System Hardening](https://img.shields.io/badge/System%20Hardening-1f1f1f?style=flat-square)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=flat-square&logo=windows&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud-1f1f1f?style=flat-square&logo=icloud&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+---
 
-## 📊 GitHub stats
+### 🧰 Technical Arsenal & Tooling
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=true&bg_color=050505&title_color=e8212b&icon_color=e8212b&text_color=ffffff" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true&bg_color=050505&title_color=e8212b&text_color=ffffff" alt="Top languages" />
+<!-- Skill Icons Animated Strip -->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,windows,bash,powershell,py,docker,git,githubactions,network" alt="Tech Stack Icons" />
+</a>
 
 </div>
 
-## 🐍 Contribution snake
+<br/>
+
+| Domain | Technologies & Frameworks |
+|---|---|
+| **🛡️ Security Operations** | `SIEM` · `CTEM` · `Log Pipelines` · `Threat Detection` · `System Hardening` · `Incident Response` · `Vulnerability Assessment` |
+| **🐧 Operating Systems** | `Linux (Ubuntu / Debian / RHEL)` · `Windows Server 2019/2022` · `Active Directory` · `Group Policy (GPO)` |
+| **🌐 Networking & Defense** | `TCP/IP` · `DNS / DHCP` · `Firewalls` · `pfSense` · `Wireshark` · `VPNs` · `Network Segmentation` |
+| **⚡ Scripting & Automation** | `Bash Scripting` · `PowerShell` · `Python` · `Cron Automation` · `Git & GitHub Actions CI/CD` |
+| **🔍 Monitoring & Telemetry** | `Syslog-ng / Rsyslog` · `Wazuh` · `Splunk` · `Elastic Stack` · `SNMP Monitoring` · `Event Forwarding` |
+
+---
+
+### 🐍 Contribution Activity Snake
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asadali-cyber25/asadali-cyber25/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asadali-cyber25/asadali-cyber25/output/github-snake.svg" />
+  <img alt="Asad's Contribution Snake Animation" src="https://raw.githubusercontent.com/asadali-cyber25/asadali-cyber25/output/github-snake-dark.svg" width="100%" />
 </picture>
+
+> *The contribution snake is dynamically generated by an automated GitHub Actions workflow every 12 hours.*
 
 </div>
 
-> The snake is generated by a workflow (`.github/workflows/snake.yml`). It appears after the first run — see the setup notes.
+---
 
-## 🤝 Let's connect
-
-I'm happy to talk about security operations, IT support, or a role where stability matters. Message me on [WhatsApp](https://wa.me/923323155941) or [LinkedIn](https://www.linkedin.com/in/your-linkedin).
+### 📊 GitHub Activity & Analytics
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8212b,100:050505&height=110&section=footer" alt="" />
+<!-- GitHub Stats & Top Languages Cards -->
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=asadali-cyber25&show_icons=true&hide_border=false&border_color=e8212b&bg_color=050505&title_color=e8212b&icon_color=e8212b&text_color=ffffff" alt="Asad's GitHub Stats" />
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=asadali-cyber25&layout=compact&hide_border=false&border_color=e8212b&bg_color=050505&title_color=e8212b&text_color=ffffff" alt="Top Languages" />
+
+<br/><br/>
+
+<!-- GitHub Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=asadali-cyber25&theme=dark&background=050505&border=e8212b&stroke=e8212b&ring=e8212b&fire=e8212b&currStreakLabel=e8212b&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak Stats" />
+
+</div>
+
+---
+
+### 🌐 3D Contribution Calendar
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
+  <img alt="3D Contribution Graph" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+</picture>
+
+> *Isometric 3D contribution matrix generated via daily GitHub Action.*
+
+</div>
+
+---
+
+### 🤝 Let's Connect
+
+Whether it's discussing **defensive security**, **SIEM deployment**, or an **IT infrastructure opportunity**, let's connect:
+
+- 💬 **WhatsApp:** [+92 332 3155941](https://wa.me/923323155941)
+- ✉️ **Direct Email:** [mrxasad33@gmail.com](mailto:mrxasad33@gmail.com)
+- 🌐 **Company Website:** [CyberSilo](https://cybersilo.tech/)
+- 💼 **LinkedIn:** [Asad Ali](https://www.linkedin.com/in/asadali-cyber25)
+
+<div align="center">
+
+<!-- Animated Footer Wave Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8212b,100:050505&height=120&section=footer" alt="Footer Banner" width="100%" />
 
 </div>
